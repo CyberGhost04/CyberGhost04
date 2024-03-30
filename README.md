@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sidhant Bahuguna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/9d/bb/8d/9dbb8d9b12c45316925c798594f34f42.jpg">
+<h1 align="center">Hello World, I'm Sidhant Bahuguna</h1>
+<h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/87/99/06/879906d5d9fc255ebe8252a7671264e0.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberghost04&label=Profile%20views&color=0e75b6&style=flat" alt="cyberghost04" /> </p>
 
