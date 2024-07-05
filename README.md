@@ -2,8 +2,6 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/564x/87/99/06/879906d5d9fc255ebe8252a7671264e0.jpg">
 
-<p align="left"> <img src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide.jpg" alt="cyberghost04" /> </p>
-
 - 🔭 I’m currently working on [Client Portfolio](https://github.com/CyberGhost04/Yash_Portfolio)
 
 - 🌱 I’m currently learning **React**
@@ -16,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sidhant-b-4093b9220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sidhant-b-4093b9220" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sidhant-b-4093b9220" target="blank"><img align="center" src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide.jpg" alt="sidhant-b-4093b9220" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
