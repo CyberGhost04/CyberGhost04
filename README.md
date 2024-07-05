@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, I'm Sidhant Bahuguna</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/564x/87/99/06/879906d5d9fc255ebe8252a7671264e0.jpg">
+<img align="right" alt="Coding" width="300" src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide.jpg">
 
 - 🔭 I’m currently working on [Client Portfolio](https://github.com/CyberGhost04/Yash_Portfolio)
 
