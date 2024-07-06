@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sidhant</h1>
+<h1 align="center">Hello World, I'm Sidhant</h1>
 <h3 align="center">Your friendly neighbourhood GPT user</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberghost04&label=Fans&color=0e75b6&style=flat" alt="cyberghost04" /> </p>
