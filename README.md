@@ -11,8 +11,6 @@
 
 - 💬 Ask me about: **MERN, C++, AWS**
 
-- 📫 How to reach me: **sidhantbahuguna@gmail.com**
-
 - 📄 Know about my experiences: [https://www.linkedin.com/in/sidhant-b-4093b9220/](https://www.linkedin.com/in/sidhant-b-4093b9220/)
 
 - ⚡ Controversial Opinion: **AI is overrated and terrifying**
