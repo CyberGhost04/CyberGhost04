@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on: **Custom Case Website**
+- 🔭 I’m currently working on: **Python Flappy Bird Game**
 
-- 🌱 I’m currently learning: **NEXT.js, Prisma**
+- 🌱 I’m currently learning: **Angular**
 
 - 👯 I’m looking to collaborate on: **Next.js, C++, Cyber Projects**
 
@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/sidhant-b-4093b9220/](https://www.linkedin.com/in/sidhant-b-4093b9220/)
 
-- ⚡ Controversial Opinion: **AI is overrated and terrifying**
 
 
 
